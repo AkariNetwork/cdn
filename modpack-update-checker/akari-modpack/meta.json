@@ -8,9 +8,9 @@
         "updateType": "minor_breaking",
         "promotions": {
           "downloads": {
-            "modrinth": "https://modrinth.com/modpack/akari/version/0.1.0",
+            "modrinth": "https://modrinth.com/",
             "curseforge": "https://curseforge.com/",
-            "generic": "https://rbq.dev/"
+            "generic": "https://drive.rbq.dev/s/eGUE"
           }
         }
       },
@@ -20,9 +20,9 @@
         "updateType": "minor_breaking",
         "promotions": {
           "downloads": {
-            "modrinth": "https://modrinth.com/modpack/akari/version/0.2.0",
+            "modrinth": "https://modrinth.com/",
             "curseforge": "https://curseforge.com/",
-            "generic": "https://rbq.dev/"
+            "generic": "https://drive.rbq.dev/s/eGUE"
           }
         }
       }
