@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 9,
+    "hotfixesFormat": null,
+    "versions": [
+      {
+        "id": "0.1.0",
+        "releasedAt": 1763646900000,
+        "updateType": "minor_breaking",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/modpack/akari/version/0.1.0"
+          }
+        }
+      }
+    ]
+  }
