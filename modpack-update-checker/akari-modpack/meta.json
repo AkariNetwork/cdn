@@ -10,11 +10,11 @@
           "downloads": {
             "modrinth": "https://modrinth.com/",
             "curseforge": "https://curseforge.com/",
-            "generic": "https://drive.rbq.dev/s/eGUE"
+            "generic": "https://rbq.dev/"
           }
         }
       },
-            {
+      {
         "id": "0.2.0",
         "releasedAt": 1763656800000,
         "updateType": "minor_breaking",
@@ -22,7 +22,19 @@
           "downloads": {
             "modrinth": "https://modrinth.com/",
             "curseforge": "https://curseforge.com/",
-            "generic": "https://drive.rbq.dev/s/eGUE"
+            "generic": "https://rbq.dev/"
+          }
+        }
+      },
+      {
+        "id": "1.0.0",
+        "releasedAt": 1764064800000,
+        "updateType": "major",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/",
+            "curseforge": "https://curseforge.com/",
+            "generic": "https://rbq.dev/"
           }
         }
       }
